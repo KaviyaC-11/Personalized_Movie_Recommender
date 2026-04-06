@@ -7,23 +7,26 @@ Live Demo
 
 https://movie-recommendationmini-project-dcsxtrmnm5eliq5oonglqc.streamlit.app/
 
-Features
-Select a movie and get personalized recommendations
-Interactive Streamlit user interface
-Fast, lightweight, and easy to use
-Deployed and shareable via Streamlit Cloud
-Built with popular Python libraries such as Pandas and NumPy
-Tech Stack
-Python 3.10+
-Pandas / NumPy – Data handling and cosine similarity computation
-Streamlit – Web application framework
-How It Works
-The user selects a movie from a dropdown list
-The system computes similarity scores using cosine similarity on movie features
-The top N most similar movies are displayed as recommendations
-Example Output
+FEATURES
+-- Select a movie and get personalized recommendations
+-- Interactive Streamlit user interface
+-- Fast, lightweight, and easy to use
+-- Deployed and shareable via Streamlit Cloud
+-- Built with popular Python libraries such as Pandas and NumPy
 
-If a user selects a movie like "Inception", the system recommends similar movies such as "Interstellar", "The Dark Knight", and others.
+TECH STACK
+-- Python 3.10+
+-- Pandas / NumPy – Data handling and cosine similarity computation
+-- Streamlit – Web application framework
+
+How It Works
+-- The user selects a movie from a dropdown list
+-- The system computes similarity scores using cosine similarity on movie features
+-- The top N most similar movies are displayed as recommendations
+
+Example Output
+If a user selects a movie like "Inception", 
+the system recommends similar movies such as "Interstellar", "The Dark Knight", and others.
 
 Run Locally
 
