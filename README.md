@@ -1,50 +1,50 @@
-🎬 MOVIE RECOMMENDATION-MINI PROJECT 
+Movie Recommendation Mini Project
 
-A simple Movie Recommendation System built with Python and deployed on Streamlit Cloud. 
-This app suggests movies based on user selection using similarity-based recommendation algorithms.
+A simple Movie Recommendation System built with Python and deployed on Streamlit Cloud.
+This application suggests movies based on user selection using similarity-based recommendation algorithms.
 
-🔗 Live Demo: https://movie-recommendationmini-project-dcsxtrmnm5eliq5oonglqc.streamlit.app/
+Live Demo
 
-📌 FEATURES 
+https://movie-recommendationmini-project-dcsxtrmnm5eliq5oonglqc.streamlit.app/
 
-✅ Select a movie and get personalized recommendations
-✅ Interactive Streamlit UI
-✅ Fast, lightweight, and easy to use
-✅ Deployed & shareable via Streamlit Cloud
-✅ Built with popular Python libraries (Pandas, Numpy, Streamlit)
+Features
+Select a movie and get personalized recommendations
+Interactive Streamlit user interface
+Fast, lightweight, and easy to use
+Deployed and shareable via Streamlit Cloud
+Built with popular Python libraries such as Pandas and NumPy
+Tech Stack
+Python 3.10+
+Pandas / NumPy – Data handling and cosine similarity computation
+Streamlit – Web application framework
+How It Works
+The user selects a movie from a dropdown list
+The system computes similarity scores using cosine similarity on movie features
+The top N most similar movies are displayed as recommendations
+Example Output
 
-🛠️ TECH STACK
+If a user selects a movie like "Inception", the system recommends similar movies such as "Interstellar", "The Dark Knight", and others.
 
--Python 3.10+
--Pandas / NumPy → Data handling, Cosine similarity for recommendations
--Streamlit → Web app framework
-
-
-🚀 HOW IT WORKS
-
--User selects a movie from the dropdown.
--The system computes similarity scores using cosine similarity on movie features.
--Top N most similar movies are displayed as recommendations.
-
-📊 EXAMPLE OUTPUT
-
-Select a movie like "Inception" → get top recommended similar movies such as "Interstellar", "Dark Knight", etc.
-
-▶️ RUN LOCALLY 
+Run Locally
 
 Clone the repository:
+
 git clone https://github.com/KaviyaC-11/Movie-Recommendation_Mini-Project.git
 cd Movie-Recommendation_Mini-Project
 
 Install dependencies:
+
 pip install -r requirements.txt
 
-Run the Streamlit app:
-streamlit run app.py
+Run the Streamlit application:
 
-👩‍💻 AUTHOR:
+streamlit run app.py
+Author
+
 Kaviya C
 
-🌐 https://www.linkedin.com/in/kaviya-c-386b2729b
+LinkedIn:
+https://www.linkedin.com/in/kaviya-c-386b2729b
 
-📂 https://github.com/KaviyaC-11
+GitHub:
+https://github.com/KaviyaC-11
