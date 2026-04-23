@@ -49,7 +49,5 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-### Author: 
-#### Kaviya C
 - LinkedIn: [ https://www.linkedin.com/in/kaviya-c-386b2729b ]
 - GitHub: [ https://github.com/KaviyaC-11 ]
