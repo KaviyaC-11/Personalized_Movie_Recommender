@@ -48,6 +48,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
+--------------------------------------------------------------------------------------
 - LinkedIn: [ https://www.linkedin.com/in/kaviya-c-386b2729b ]
 - GitHub: [ https://github.com/KaviyaC-11 ]
